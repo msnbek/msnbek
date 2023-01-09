@@ -34,7 +34,7 @@ Connect with me here 👇
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-mahmutsenbek-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselakbalik/)](https://www.linkedin.com/in/mahmut-şenbek-58b367251/)
-[![Gmail Badge](https://img.shields.io/badge/-mahmutsenbek@icloud.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veyselakbalik@ogr.iu.edu.tr)](mailto:mahmutsenbek@icloud.com)
+[![Gmail Badge](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white&link=mailto:mahmutsenbek@icloud.com)](mailto:mahmutsenbek@icloud.com)
 
 
 
