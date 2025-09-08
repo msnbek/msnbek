@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Mahmut+Senbek.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-✨ Hi, my name is Mahmut, I'm 24 y.o. 
+✨ Hi, my name is Mahmut, I'm 26 y.o. 
 
 ✨ I'm interested in mobile app development. 
 
@@ -18,15 +18,7 @@
   ![HTML5](https://img.shields.io/badge/HTML5-282C34?logo=html5)
   ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
- 
 
-
-## 📖  What I am currently learning / improving on
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 Connect with me here 👇
