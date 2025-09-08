@@ -19,24 +19,9 @@
   ![CSS3](https://img.shields.io/badge/CSS3-282C34?logo=css3)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-
-
 Connect with me here 👇
 ---
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-mahmutsenbek-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselakbalik/)](https://www.linkedin.com/in/mahmut-şenbek-58b367251/)
 [![Gmail Badge](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white&link=mailto:mahmutsenbek@icloud.com)](mailto:mahmutsenbek@icloud.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mahmutsenbek7@gmail.com)](mailto:mahmutsenbek7@gmail.com)
 
-
-
-
-
-
-## ⚡ GitHub Stats
-
-[![veyselakbalik's github stats](https://github-readme-stats.vercel.app/api?username=msnbek&theme=dark&show_icons=true)](https://github.com/msnbek)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msnbek&layout=compact&theme=dark)](https://github.com/msnbek/github-readme-stats)]
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=msnbek.msnbek)
